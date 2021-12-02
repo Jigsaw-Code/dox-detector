@@ -1,0 +1,6 @@
+models/doxing/tf/saved_model/1/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models/doxing/pt/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+models/cth/tf/saved_model/1/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models/cth/pt/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+models/cth/tf/tf_model.h5 filter=lfs diff=lfs merge=lfs -text
+models/doxing/tf/tf_model.h5 filter=lfs diff=lfs merge=lfs -text
